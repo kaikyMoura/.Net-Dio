@@ -1,0 +1,15 @@
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\bin\Debug\net6.0\Desafio-dio.exe
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\bin\Debug\net6.0\Desafio-dio.deps.json
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\bin\Debug\net6.0\Desafio-dio.runtimeconfig.json
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\bin\Debug\net6.0\Desafio-dio.dll
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\bin\Debug\net6.0\Desafio-dio.pdb
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.csproj.AssemblyReference.cache
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.AssemblyInfoInputs.cache
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.AssemblyInfo.cs
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.csproj.CoreCompileInputs.cache
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.dll
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\refint\Desafio-dio.dll
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.pdb
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\Desafio-dio.genruntimeconfig.cache
+C:\Users\Sheilla\Desktop\dotnet-dio\Desafio-dio\Desafio-dio\obj\Debug\net6.0\ref\Desafio-dio.dll
